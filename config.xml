@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns		= "http://www.w3.org/ns/widgets"
+	xmlns:gap	= "http://phonegap.com/ns/1.0"
+	id		= "com.jquerymobile132.first.android"
+	version 	= "1.0">
+
+	<name>JQuery Mobile 1.3.2</name>
+
+	<description>
+		JQuery Mobile 1.3.2 Offline
+	</description>
+
+	<author href="http://www.hizamomar.com"
+		email="hizam.omar@gmail.com">
+		Mohammad Norhizam Omar
+	</author>
+
+	<icon src="icons/drawable-ldpi/ic_launcher.png" gap:platform="android" gap:density="ldpi" />
+	<icon src="icons/drawable-mdpi/ic_launcher.png" gap:platform="android" gap:density="mdpi" />
+	<icon src="icons/drawable-hdpi/ic_launcher.png" gap:platform="android" gap:density="hdpi" />
+	<icon src="icons/drawable-xhdpi/ic_launcher.png" gap:platform="android" gap:density="xhdpi" />
+	
+	<gap:splash src="splash.png" />
+
+	<preference name="orientation" value="default" />
+	<preference name="fullscreen" value="false" />
+</widget>
