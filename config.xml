@@ -15,10 +15,10 @@
 		Mohammad Norhizam Omar
 	</author>
 
-	<icon src="icons/drawable-ldpi/ic_launcher.png" gap:platform="android" gap:density="ldpi" />
-	<icon src="icons/drawable-mdpi/ic_launcher.png" gap:platform="android" gap:density="mdpi" />
-	<icon src="icons/drawable-hdpi/ic_launcher.png" gap:platform="android" gap:density="hdpi" />
-	<icon src="icons/drawable-xhdpi/ic_launcher.png" gap:platform="android" gap:density="xhdpi" />
+	<icon src="res/drawable-ldpi/ic_launcher.png" gap:platform="android" gap:density="ldpi" />
+	<icon src="res/drawable-mdpi/ic_launcher.png" gap:platform="android" gap:density="mdpi" />
+	<icon src="res/drawable-hdpi/ic_launcher.png" gap:platform="android" gap:density="hdpi" />
+	<icon src="res/drawable-xhdpi/ic_launcher.png" gap:platform="android" gap:density="xhdpi" />
 	
 	<gap:splash src="splash.png" />
 
