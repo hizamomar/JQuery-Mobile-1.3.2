@@ -1,27 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<widget xmlns		= "http://www.w3.org/ns/widgets"
-	xmlns:gap	= "http://phonegap.com/ns/1.0"
-	id		= "com.jquerymobile132.first.android"
-	version 	= "1.0">
-
-	<name>JQuery Mobile 1.3.2</name>
-
-	<description>
-		JQuery Mobile 1.3.2 Offline
-	</description>
-
-	<author href="http://www.hizamomar.com"
-		email="hizam.omar@gmail.com">
-		Mohammad Norhizam Omar
-	</author>
-
-	<icon src="res/drawable-ldpi/ic_launcher.png" gap:platform="android" gap:density="ldpi" />
-	<icon src="res/drawable-mdpi/ic_launcher.png" gap:platform="android" gap:density="mdpi" />
-	<icon src="res/drawable-hdpi/ic_launcher.png" gap:platform="android" gap:density="hdpi" />
-	<icon src="res/drawable-xhdpi/ic_launcher.png" gap:platform="android" gap:density="xhdpi" />
-	
-	<gap:splash src="splash.png" />
-
-	<preference name="orientation" value="default" />
-	<preference name="fullscreen" value="false" />
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.wdevelopment.phonegaptutorial" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>PhoneGapTutorial</name>
+    <description>
+        A sample Apache Cordova application that responds to the deviceready event.
+    </description>
+    <author email="dev@callback.apache.org" href="http://cordova.io">
+        Apache Cordova Team
+    </author>
+    <access origin="*" />
+    <preference name="fullscreen" value="true" />
+    <preference name="webviewbounce" value="true" />
 </widget>
